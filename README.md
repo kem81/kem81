@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kem</h1>
-<h3 align="center">I'm an IT Operations Engineer (Cloud focussed)</h3>
+<h3 align="center">I'm a Cloud Ops Engineer</h3>
 
 - 🔭 I’m currently working on **Many projects in my current role**
 
