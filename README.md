@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kem</h1>
 <h3 align="center">I'm a Cloud Ops Engineer</h3>
 
-- 🔭 I’m currently working on **Many projects in my current role**
+- 🔭 I’m currently working on **Implementing improvements to processes and improving existing ones in my current role**
 
-- 🌱 I’m currently learning **Azure DevOps AZ-104**
+- 🌱 I’m currently learning **Azure DevOps AZ-400**
 
 - 📝 I regularly write articles on [https://kstech.uk](https://kstech.uk)
 
