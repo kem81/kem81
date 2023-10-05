@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kem</h1>
 <h3 align="center">I'm a Cloud Ops Engineer</h3>
 
-- 🔭 I’m currently working on **Implementing improvements to processes and improving existing ones in my current role**
+- 🔭 I’m currently working on **Implementing improvements to existing processes and creating new ones in my current role**
 
 - 🌱 I’m currently learning **Azure DevOps AZ-400**
 
