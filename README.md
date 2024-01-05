@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Implementing improvements to existing processes and creating new ones in my current role**
 
-- 🌱 I’m currently learning **Python (AWS SDK Boto3**
+- 🌱 I’m currently learning **Python (AWS SDK Boto3)**
 
 - 📝 I regularly write articles on [https://kstech.uk](https://kstech.uk)
 
